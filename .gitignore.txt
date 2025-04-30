@@ -1,0 +1,38 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, build appropriations
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# Project local configuration files (IDE or editor specific)
+.idea/
+.vscode/
+*.iml
+
+# Wails specific build files
+/build/bin/
+/build/windows/
+
+# Node.js dependency directory
+node_modules/
+
+# Frontend build output (can be rebuilt)
+frontend/dist/
+
+# NPM cache logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Environment variables
+.env*
+!.env.example

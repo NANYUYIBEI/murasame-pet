@@ -20,7 +20,7 @@
 
 ## 🛠️ 技术栈 (Technology Stack)
 
-*   **后端:** Go ( wykorzystuje Goroutines & Channels do współbieżności)
+*   **后端:** Go (Goroutines & Channels)
 *   **框架:** Wails v2
 *   **前端:** JavaScript
 *   **渲染:** Live2D Cubism Web SDK
